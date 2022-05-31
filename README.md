@@ -9,3 +9,5 @@ The GUI provides the necessary SWING or JavaFX components that will allow the us
 Insert game and player information into the database.
 Update the existing player information
 Display reports with player and played games information. 
+![GUI10](https://user-images.githubusercontent.com/63877032/171180104-ebf42665-7d74-4311-b3a8-e46e5ae5bda1.png)
+![GUI1](https://user-images.githubusercontent.com/63877032/171180116-d7fb4cab-5fe3-4701-ace9-2260d8590d04.png)
